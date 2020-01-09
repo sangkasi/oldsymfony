@@ -9,6 +9,6 @@
         }
     },
     "require": {
-        "symfony/symfony": "v2.8.45"
+        "symfony/symfony": "v2.8.52"
     }
 }
